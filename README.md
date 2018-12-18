@@ -39,11 +39,6 @@ Group 41 - OBJECT-ORIENTED PROGRAMMING ( OOP )
 
 ---
 
-## 📽 Game Storyboard
-
-
-
----
 
 ## 💻 Our Team | สมาชิกกลุ่ม
 
