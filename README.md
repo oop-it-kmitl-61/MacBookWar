@@ -1,2 +1,2 @@
-# MacBookWar
+# MacWarGame
 Group 41 - OBJECT-ORIENTED PROGRAMMING ( OOP )
